@@ -12,7 +12,9 @@ Start your Kali Linux machine and download the fake login screen from [here](htt
 # Step 2:
 Now unzip the file using the command
 
+```
 unzip <file-name>.zip
+```
 
 ![image1](https://miro.medium.com/v2/resize:fit:828/format:webp/1*YJ_Fidq-fKkRmnCES8G-8g.png)
 
